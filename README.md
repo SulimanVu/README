@@ -1,6 +1,8 @@
-## Приветствую вас! Меня зовут Сулиман и я Frontend-разработчик
+## Hello, welcome to my profile
 
-### Стек технологий с которыми я работаю:
+
+### :hammer_and_wrench: Стек технологий с которыми я работаю :
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
@@ -25,3 +27,7 @@
   <a href="https://github.com/SulimanVu/Health-Back.git">Code-Back</a> | <a href="#">Preview</a>
 - Перевозка грузов <a href="https://github.com/SulimanVu/Truck-Front.git">Code-Front</a> |
   <a href="https://github.com/SulimanVu/Truck-Back.git">Code-Back</a> | <a href="#">Preview</a>
+
+### :fire: Статистика :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SulimanVu&theme=dark&background=000000)](https://git.io/streak-stats)
