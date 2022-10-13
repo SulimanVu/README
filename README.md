@@ -1,24 +1,22 @@
-## Hello, welcome to my profile
+## Добро пожаловать на страницу Frontend разработчика!
 
 
 ### :hammer_and_wrench: Стек технологий с которыми я работаю :
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />
+<div>
+  <img align="left" width=40px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" href="https://html.com/" />
+  <img align="left" width=40px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="photoReact" />
+  <img align="left" width=40px src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png"      alt="photoJs" />
+  <img align="left" width=40px src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="photoReact" />
+  <img align="left" width=40px  src="https://img.icons8.com/color/452/redux.png" alt="photoReact" />
+  <img align="left" width=40px src="https://img.icons8.com/dusk/344/webpack.png" alt="photoJs" />
+  <img align="left" width=40px src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="photoJs" />
+  <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="photoJs" />
+  <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" />
+</div>
   </br>
-  <img alt="Redux-Toolkit" src="https://img.shields.io/badge/-Redux_Toolkit-white?style=for-the-badge&logo=Redux&logoColor=430098" />
-  <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </br>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-43853d?style=for-the-badge&logo=MongoDB&logoColor=white" />
-  </br>
-  <img alt="SASS" src="https://img.shields.io/badge/-SASS-white?style=for-the-badge&logo=SASS&logoColor=red" />
-</p>
-
+  
 ### Мои проекты:
 
 - Продажа ПК с возможностью сборки <a href="https://github.com/SulimanVu/team-MadePC-Front.git">Code-Front</a> |
@@ -32,6 +30,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SulimanVu&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### 🥇
+### 🥇 Чем я пользуюсь больше всего :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SulimanVu)](https://github.com/anuraghazra/github-readme-stats)
