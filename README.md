@@ -16,6 +16,7 @@
   </br>
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-white?style=for-the-badge&logo=SASS&logoColor=red" />
 </p>
+![wolk](https://user-images.githubusercontent.com/100429884/195527533-13b8ef2e-d6c1-4800-82e0-47d160431317.gif)
 
 ### Мои проекты:
 
