@@ -34,3 +34,8 @@
 ### 🥇 Чем я пользуюсь больше всего :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SulimanVu)](https://github.com/anuraghazra/github-readme-stats)
+  </br>
+### Как вы можете со мной связаться:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/S_A_L_L_I_V_A_N) &nbsp;&nbsp;
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suliman-sadakhanov-724466253)
