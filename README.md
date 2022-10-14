@@ -1,4 +1,4 @@
-## Добро пожаловать на страницу Frontend разработчика!
+## :wave: Добро пожаловать на страницу Frontend разработчика!
 
 
 ### :hammer_and_wrench: Стек технологий с которыми я работаю :
@@ -27,15 +27,15 @@
 - Перевозка грузов <a href="https://github.com/SulimanVu/Truck-Front.git">Code-Front</a> |
   <a href="https://github.com/SulimanVu/Truck-Back.git">Code-Back</a> | <a href="#">Preview</a>
 
-### :fire: Статистика :
+### :chart_with_upwards_trend: Статистика :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SulimanVu&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### 🥇 Чем я пользуюсь больше всего :
+### :computer: Чем я пользуюсь больше всего :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SulimanVu)](https://github.com/anuraghazra/github-readme-stats)
   </br>
-### Как вы можете со мной связаться:
+### :mailbox_with_no_mail: Как вы можете со мной связаться:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/S_A_L_L_I_V_A_N) &nbsp;&nbsp;
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suliman-sadakhanov-724466253)
