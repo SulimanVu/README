@@ -21,7 +21,7 @@
 ### Мои проекты:
 
 - Продажа ПК с возможностью сборки <a href="https://github.com/SulimanVu/team-MadePC-Front.git">Code-Front</a> |
-  <a href= "https://github.com/SulimanVu/team-madePC-back">Code-Back</a> | <a href="#">Preview</a>
+  <a href= "https://github.com/SulimanVu/team-madePC-back">Code-Back</a> | <a href="https://madepc-frontend.onrender.com/">Preview</a>
 - Веб-приложение для поддержания здоровья <a href="https://github.com/SulimanVu/Health-Front.git">Code-Front</a> |
   <a href="https://github.com/SulimanVu/Health-Back.git">Code-Back</a> | <a href="#">Preview</a>
 - Перевозка грузов <a href="https://github.com/SulimanVu/Truck-Front.git">Code-Front</a> |
