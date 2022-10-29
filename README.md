@@ -26,6 +26,7 @@
   <a href="https://github.com/SulimanVu/Health-Back.git">Code-Back</a> | <a href="#">Preview</a>
 - Перевозка грузов <a href="https://github.com/SulimanVu/Truck-Front.git">Code-Front</a> |
   <a href="https://github.com/SulimanVu/Truck-Back.git">Code-Back</a> | <a href="#">Preview</a>
+#### Для полной загрузки сайта нужно полождать 15-25 секунд (размещен на бесплатном хосте)
 
 ### :chart_with_upwards_trend: Статистика :
 
