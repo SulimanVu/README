@@ -1,4 +1,4 @@
-## Sadakhanov Suliman - Frontend Developer (React)
+## Sadakhanov Suliman - Frontend Developer
 
 
 ### :hammer_and_wrench: Стек технологий с которыми я работаю :
